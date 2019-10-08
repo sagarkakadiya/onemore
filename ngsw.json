@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1570513367639,
+  "timestamp": 1570524588414,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,14 +11,12 @@
         "/es2015-polyfills.bda95d5896422d031328.js",
         "/favicon.ico",
         "/index.html",
-        "/main.3c59246f65ae628e4199.js",
+        "/main.7d74333a7c341924914c.js",
         "/polyfills.8bbb231b43165d65d357.js",
         "/runtime.26209474bfa8dc87a77c.js",
         "/styles.3ff695c00d717f2d2a11.css"
       ],
-      "patterns": [
-        "https:\\/\\/fonts\\.googleapis\\.com\\/.*"
-      ]
+      "patterns": []
     },
     {
       "name": "assets",
@@ -37,19 +35,7 @@
       "patterns": []
     }
   ],
-  "dataGroups": [
-    {
-      "name": "jokes-api",
-      "patterns": [
-        "https:\\/\\/api\\.chucknorris\\.io\\/jokes\\/random"
-      ],
-      "strategy": "freshness",
-      "maxSize": 20,
-      "maxAge": 3600000,
-      "timeoutMs": 60000,
-      "version": 1
-    }
-  ],
+  "dataGroups": [],
   "hashTable": {
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
@@ -61,8 +47,8 @@
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/es2015-polyfills.bda95d5896422d031328.js": "1612fe8f7e8e0c856f0885ff179e93363c67834f",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "9d1fab54ba0aa7b045e1065695c09f2bc5bdfff7",
-    "/main.3c59246f65ae628e4199.js": "d815ee6c35eb14d2164098438f60a6ea8113c5f7",
+    "/index.html": "eaa2cd738772dcbc18ad2654a8283b8d9390093c",
+    "/main.7d74333a7c341924914c.js": "6c4a27b337caf25200d54439277fd6e207bd6f94",
     "/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"

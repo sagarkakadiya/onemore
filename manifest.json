@@ -1,6 +1,6 @@
 {
-  "name": "pwagiftapp",
-  "short_name": "pwagiftapp",
+  "name": "data",
+  "short_name": "data",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
